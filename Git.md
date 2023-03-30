@@ -3,7 +3,7 @@
 Git is a distributed version control software that basically allows multiple people to work in parallel and it saves a history of all changes made. 
 We advise to use git in your group work as git will help ensure that there are no code conflicts as well as allow developers the ability to revert files or entire projects back to a previous version of their code.
 ## Prerequistion 
-Install [GIT] (https://education.github.com/git-cheat-sheet-education.pdf).
+Install [GIT](https://education.github.com/git-cheat-sheet-education.pdf).
 Create a [Github](www.github.com) or [GitLab](www.gitlab.com) Account if you not already have one 
 
 ## Usage 

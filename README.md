@@ -11,9 +11,10 @@ This repository is suppose to summarize the most important knowledge,
 
 ## Python 
 
-https://www.youtube.com/watch?v=7eh4d6sabA0
+Details on how to install and use Python can be found [here](Python.md).
 
 ## Machine Learning 
+Resources on Machine Learning can be found [here](ML.md).
 
 ## Server Usage 
 If you need access to a server during the seminar. Talk to your supervisor the earlier the better. 
