@@ -2,7 +2,7 @@
 
 ## Install Python
 
-
+<a href='https://realpython.com/installing-python/'>Python</a>
 
 ## Environments
 
@@ -35,3 +35,6 @@ pip install <pandas> oder pip install –r <requirements.txt>
 ```
 python spielwiese.py
 ```
+
+## Further Ressources
+List of Python Tutorials for basic python as well as different packages: https://github.com/ujjwalkarn/DataSciencePython. 
