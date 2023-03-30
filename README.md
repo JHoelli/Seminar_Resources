@@ -5,14 +5,14 @@ This repository is suppose to summarize the most important knowledge,
 
 
 ## Set-up Dev Environment 
-1. Download and Install Python ()
-2. Download and Install Python ()
-3. Download Code Editor of Choice (pyCharm, Visual Studio Code, Sublime, Jupyter).
+1. Download and Install [Python][https://realpython.com/installing-python/].
+2. Download and Install [Git][https://education.github.com/git-cheat-sheet-education.pdf].
+3. Download Code Editor of Choice ([PyCharm][https://www.jetbrains.com/de-de/pycharm/], [Visual Studio Code][https://code.visualstudio.com/]).
 
 ## Python 
 
 https://www.youtube.com/watch?v=7eh4d6sabA0
-https://missing.csail.mit.edu/
+
 ## Machine Learning 
 
 ## Server Usage 
