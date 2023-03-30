@@ -5,7 +5,7 @@ This repository is suppose to summarize the most important knowledge,
 
 
 ## Set-up Dev Environment 
-1. Download and Install [Python][https://realpython.com/installing-python/].
+1. Download and Install <a href='https://realpython.com/installing-python/'>Python</a>.
 2. Download and Install [Git][https://education.github.com/git-cheat-sheet-education.pdf].
 3. Download Code Editor of Choice ([PyCharm][https://www.jetbrains.com/de-de/pycharm/], [Visual Studio Code][https://code.visualstudio.com/]).
 
