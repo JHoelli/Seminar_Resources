@@ -6,12 +6,13 @@
 
 ## Environments
 
-We use environments to isolate the project librarie and eliminate unintended sideeffects to other projects.
-Three ways to create an evironment:
+We use environments to isolate the project libraries and eliminate unintended side-effects to other projects.
+Four ways to create an evironment:
 - Venv (with python 3)
 - virtualenv (pip install virtualenv)
 - anaconda (for binaries, recommended for windows)
 - pipenv (pip install pipenv)
+On Windows it is advisable to use anaconda.
 
 Below an Example on how to create such an environment with virtualenv
 

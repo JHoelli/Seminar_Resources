@@ -31,6 +31,7 @@ If you do not want to add your code changes to the repository where you cloned f
 git remote add [remotename] [URI TO YOUR PERSONAL GITHUB REPO]
 ```
 Else This Step can be skipped.
+
 C) Add changes made to a project. 
 ```
 git add .
