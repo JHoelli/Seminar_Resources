@@ -1,20 +1,10 @@
 # Information
 
-You have 3 accounts, please make sure to use the correct account:
-- FZI: XXX@fzi.de, for VPN, e-mail (if it doesn't work, try with/without `@fzi.de`)
-- Server: Ubuntu user on specific server, e.g. `ipe-monster`. Can only be used to connect to server
-- Gitlab: Credentials to access the Gitlab https://ipe-wim-gitlab.fzi.de/
-
-You can use the following services
-- Cloud: https://cloud.fzi.de/
-- Mail: https://mail.fzi.de/
-
-
 ## Using Servers
 
-- Main GPU server `ipe-monster.fzi.de` with credentials provided by Laura Doerr/Lucas Cazonelli. Note: this account has no relation to your FZI account!
+- For access to the GPU Servers, please talk to your supervisor. Do this as early as possible. Granting access takes time.
 - Connect to server using VS Code: Explained in this [video](https://www.youtube.com/watch?v=y9iM0lYAQD0)
-- Or connect directly via `ssh`: `ssh USERNAME@ipe-monster.fzi.de`
+- Or connect directly via `ssh`: `ssh USERNAME@SERVERNAME`
 
 ### Create Virtual Environment
 
