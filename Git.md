@@ -12,16 +12,25 @@ If you do not want to use GIT via command line multiple IDS offer a git integrat
 [Plugin for Visual Code](https://code.visualstudio.com/docs/sourcecontrol/overview))
 
 
-A) Create new Project. 
+A) Create new Project (if your folder is not already a git repository). Do NOT use this call if you want to clone a repository from GitHub. 
 Go to local project folder. 
 ```
 git init
 ```
-B) Clone a Project from Github. 
+B) Clone a Project from Github. If you clone a repo do NOT call git init before. 
 ```
 git clone [path]
 ```
+If you want to clone the blueprint reo: 
+```
+git clone https://github.com/lucasczz/Project-Blueprint.git
+```
 
+If you do not want to add your code changes to the repository where you cloned from, you nedd to add an additional remote:
+```
+git remote add [remotename] [URI TO YOUR PERSONAL GITHUB REPO]
+```
+Else This Step can be skipped.
 C) Add changes made to a project. 
 ```
 git add .
