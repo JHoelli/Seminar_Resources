@@ -21,7 +21,7 @@ B) Clone a Project from Github. If you clone a repo do NOT call git init before.
 ```
 git clone [path]
 ```
-If you want to clone the blueprint reo: 
+If you want to clone the blueprint repo: 
 ```
 git clone https://github.com/lucasczz/Project-Blueprint.git
 ```
