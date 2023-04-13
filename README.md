@@ -1,6 +1,6 @@
 # Seminar Resources
 
-This repository is suppose to summarize the most important knowledge,
+This repository is suppose to summarize the most important knowledge for setting up your Laptop and your IDE. 
 
 
 
